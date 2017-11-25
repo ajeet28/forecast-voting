@@ -4,7 +4,6 @@ Forecast the voting for a particular year's Eurovision Song.
 # Libraries used
 * Numpy (1.13.3)
 * Keras (1.1.2)
-* Matplotlib (1.5.1)
 
 # Data
 Link : https://www.kaggle.com/c/Eurovision2010/data

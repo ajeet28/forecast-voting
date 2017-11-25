@@ -1,7 +1,6 @@
 import numpy as np
 from keras.models import Sequential
 from keras.layers import LSTM
-import matplotlib.pyplot as plt
 import argparse
 import load_data as ld
 from keras.callbacks import ModelCheckpoint
